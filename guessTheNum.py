@@ -1,4 +1,4 @@
-
+# This program will help you to Guess whether the given input number is correct or not. k N
 import random
 
 def guess(x):
